@@ -1,0 +1,3 @@
+- insert:
+    - id: sidebar-recent
+      name: '@local/dsh-sidebar-recent'
